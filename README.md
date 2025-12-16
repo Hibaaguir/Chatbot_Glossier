@@ -1,2 +1,2 @@
-#dossier complet avec les fichiers lourd 
+# Dossier complet avec les fichiers lourds
 lien:
