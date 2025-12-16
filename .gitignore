@@ -1,0 +1,12 @@
+# Modèles ML
+*.safetensors
+*.pt
+*.pkl
+*.h5
+
+# Archives
+*.rar
+*.zip
+
+# Dossiers inutiles
+.ipynb_checkpoints/
